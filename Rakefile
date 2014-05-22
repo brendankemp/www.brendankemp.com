@@ -226,9 +226,9 @@ task :deploy do
   if File.exists?(".preview-mode")
     puts "## Found posts in preview mode, regenerating files ..."
     File.delete(".preview-mode")
-    Rake::Task[:generate].execute
   end
 
+  Rake::Task[:generate].execute
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   Rake::Task["#{deploy_default}"].execute
 end
