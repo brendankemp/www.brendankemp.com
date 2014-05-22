@@ -18,7 +18,7 @@ deploy_default = "rsync"
 deploy_branch  = "gh-pages"
 
 ## -- Amazon S3 Deploy config -- ##
-s3_bucket = "www.brendankemp.com"
+s3_bucket = "brendankemp.com"
 
 ## -- Misc Configs -- ##
 
