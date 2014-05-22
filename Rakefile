@@ -1,5 +1,7 @@
 require "rubygems"
 require "bundler/setup"
+require "dotenv"
+Dotenv.load
 require "stringex"
 require "aws-sdk"
 
