@@ -3,7 +3,7 @@ layout: post
 title: "Run an OS X Virtual Machine inside OS X with Parallels"
 date: 2013-02-24 19:32
 comments: true
-categories: programming osx vm
+categories: osx vm workflow
 ---
 
 I was able to do this with Parallels 8. There was some conflicting information on the forums, and no clear answer, so I thought I would write it up.

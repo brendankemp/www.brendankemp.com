@@ -3,7 +3,7 @@ layout: post
 title: "How to add a shortcut for any command in Sublime Text"
 date: 2014-05-29 08:00
 comments: true
-categories:
+categories: sublime-text workflow
 ---
 
 Two of my favorite commands in Sublime Text are `upper_case` and `lower_case`. I've remapped `<Caps Lock>` to `<Ctrl>`, so if I have to type `SOME_LONG_CONSTANT_IN_SCREAMING_SNAKE_CASE`, I can type it all out in lower case and press `super+k, super+u`.
