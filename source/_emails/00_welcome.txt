@@ -1,0 +1,13 @@
+Hey there {name} —
+
+Thanks for signing up for my newsletter! I write about Ruby, and Rails, and code quality, and object-oriented design, and the social factors of programming. Mostly I want to give you ideas that will help you at your job.
+
+To that end, why don't you hit "reply" and tell me one thing that's really bugged you at work recently.
+
+It could be a corner of a codebase that you feel is being neglected. It could be one ugly technique that is consistently causing bugs. It could be a library you use regularly, but haven't fully figured out yet. Maybe you feel you know a better way to do something, but you can't convince the rest of your team.
+
+Please, hit "reply" and write me a little bit about the first issue that comes to mind. If you have the time, I'd also love it if you include a little bit about yourself. Who are you? Where are you in your career? What professional goals do you have for the next year?
+
+You don't have to write a novel, just short note, and I'll try to reply to every email. Thanks for your time, thanks for joining, and have an awesome day!
+
+—Brendan
