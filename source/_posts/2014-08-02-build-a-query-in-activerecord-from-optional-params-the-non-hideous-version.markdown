@@ -3,7 +3,7 @@ layout: post
 title: "Build a query in ActiveRecord from optional params: the non-hideous version"
 date: 2014-08-02 23:55:18 -0400
 comments: true
-categories: ruby, rails
+categories: active-record rails ruby
 published: true
 ---
 
