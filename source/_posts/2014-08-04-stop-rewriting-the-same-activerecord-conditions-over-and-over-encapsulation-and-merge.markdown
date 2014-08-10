@@ -71,7 +71,7 @@ Now every condition lives on the correct model.
 
 Many people would ask at this point: why bother? Isn't it easier to write the condition when you need it? Maybe you could extract a scope when you start reusing the same condition a second or a third time?
 
-The problem is that it's easy to not notice when you are rewriting the same condition for the nth time. You have to remember to `grep` the project.
+The problem is that it's easy not to notice when you are rewriting the same condition for the nth time. You have to remember to `grep` the project.
 
 I also find that when a set of conditions is rewritten every time they are used, bugs occur. Something like this always happens: you remembered to order by `published_at`, but you forgot the fall-back order is `created_at` because not all records have a `published_at` date. Or any of the thousands of similar quirks that accumulate when several programmers add code on top of an imperfect data set. This is avoided if you define one canonical scope on the model itself.
 
