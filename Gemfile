@@ -17,6 +17,7 @@ group :development do
   gem 'directory_watcher', '1.4.1'
   gem 'aws-sdk', '~> 1.8.1'
   gem 'dotenv'
+  gem 'thin'
 end
 
 gem 'sinatra', '~> 1.4.2'
